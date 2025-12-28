@@ -1,0 +1,5 @@
+{
+  "name": "SonicForge: Suno Prompt Gen",
+  "description": "Generate optimized prompts, lyrics, and style descriptors for Suno AI music creation.",
+  "requestFramePermissions": []
+}
