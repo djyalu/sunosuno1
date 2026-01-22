@@ -6,6 +6,13 @@ export interface StructureItem {
   description?: string; // User input for this specific scene
 }
 
+export interface SavedPreset {
+  id: string;
+  name: string;
+  date: number;
+  config: any;
+}
+
 export interface SunoPrompt {
   id: string;
   title: string;
